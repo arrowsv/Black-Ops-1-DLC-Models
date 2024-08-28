@@ -21,6 +21,7 @@ There are two options for downloading the collection:
 
 # Todo
 - [ ] Complete `p_sdm_jumbotron` screen materials.
+- [ ] Write animtree files for each DLC's respective fxanims.
 
 # Credits
 - SE2Dev & Nukem9 - LinkerMod
