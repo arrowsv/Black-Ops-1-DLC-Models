@@ -13,7 +13,7 @@ A collection of every missing DLC model from the Black Ops Mod Tools. Use on top
 There are two options for downloading the collection:
 * I only want to use the assets (~1 GB size):
   1. Go to the [Releases](https://github.com/arrowsv/Black-Ops-1-DLC-Models/releases) page and download the latest release.
-  2. Extract the downloaded zip file into your Black Ops 1 `raw` folder. Make sure to read the caution above regarding replacing existing files.
+  2. Extract the downloaded zip file into your main Black Ops 1 game directory folder.
 
 * I want to use the assets and have the source files (~10 GB size):
   1. Above the list of files on the repo's main page, click the `Code` button and click `Download ZIP`.
